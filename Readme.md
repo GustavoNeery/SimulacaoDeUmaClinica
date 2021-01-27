@@ -1,7 +1,5 @@
 # Git Course
 
 
-Este é um repositorio teste para aprender como o git funciona
+Repositorio para aprendizado sobre o git
 
-
-Novas alterações.
