@@ -310,6 +310,7 @@ void listar(){
             printf("\t\t\t\tCódigo: %s\n",ctt.codigo);
             printf("\t\t\t\tCPF: %s\n",ctt.cpf);
             printf("\t\t\t\t-----------------------------------------------\n\n");
+	    printf("");
         }
 
     }
